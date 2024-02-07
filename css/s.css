@@ -1,0 +1,93 @@
+h1 {
+	color: pink;
+}
+.irina{
+	font-size: 30px;
+}
+.ira{
+	font-size: 25px;
+}
+.container  {
+	width: 1170px;
+	margin: 0 auto;
+}
+.header {
+	 background: url('../img/beck.jpg') no-repeat center top;
+      padding-top: 200px;
+}
+header a {
+	color: #fff;
+}
+.menu {
+	display: flex;
+}
+  text-transform:uppercase;
+}
+/*    все капс/
+    text-decoration: none;
+/    без нижнего подчеркивания*/
+    font-size:14px;
+}
+.menu {
+	display: flex;
+}
+.menu li a {
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 14px;
+	letter-spacing: 0.1em;
+}
+.menu li a{
+	margin-right: 40px;
+}
+.tell{
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: auto;
+	letter-spacing: 0.1em;
+}
+.nav {
+	display: flex;
+	align-items: center;
+	padding-top: 57px;
+}
+.logo{
+	margin-right: 100px;
+}
+.description {
+	display: flex;
+	justify-content: space-between;
+}
+.gg {
+	font-family: 'Open Sans';
+	font-weight: 300;
+	text-align: justify;
+	line-height: 1.62em;
+	background: rgba(255, 182, 193, 0.5);
+	border:5px solid black;
+	width: 78vw;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px 20px 30px 40px;
+}
+.ff {
+	font-family: 'Open Sans';
+	font-weight: 300;
+	text-align: justify;
+	line-height: 1.62em;
+	background: rgba(255, 182, 193, 0.5);
+	border:5px solid black;
+	width: 78vw;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px 20px 30px 40px;
+}
+.red {
+	background:  rgba(255, 182, 193, 0.5);
+}
+.romb{
+	list-style-type: none;
+}
+.bucvi{
+	list-style-type: none;
+}
